@@ -1,0 +1,2 @@
+Prefix plugins/LOO/example
+Plugin LOO inputfile STAN_MissAA.rds outputfile output.rds
